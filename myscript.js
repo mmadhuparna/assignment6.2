@@ -7,7 +7,7 @@ var isVegetarian = true;
 var calories = 223.7;
 
 //log variable values into console
-console.log('Recipe Details After Update');
+console.log('Recipe Details');
 console.log('--------------');
 console.log('Recipe Name:'+ recipeName);
 console.log('Preparation Time:'+ preparationTime);
@@ -19,7 +19,7 @@ console.log('Calories:'+ calories);
 preparationTime = 60;
 
 //log Updated variable values into console 
-console.log("Recipe Details");
+console.log('Recipe Details After Update');
 console.log('--------------');
 console.log('Recipe Name:'+ recipeName);
 console.log('Preparation Time:'+ preparationTime);
